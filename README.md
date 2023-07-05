@@ -1,5 +1,7 @@
 # kk player
 
+目前仅支持 Android
+
 ## 特色
 
 * 支持MAC CMS资源站（xml，json）
