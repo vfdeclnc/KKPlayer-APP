@@ -18,4 +18,5 @@
 
 ## 体验
 
-[https://www.123pan.com/s/7x5A-IJb8.html](https://www.123pan.com/s/7x5A-IJb8.html)
+### KKPlayer [Play商店](https://play.google.com/store/apps/details?id=cn.xuehuayu.player)
+
