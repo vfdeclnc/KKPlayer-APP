@@ -21,4 +21,4 @@
 ### KKPlayer [Play商店](https://play.google.com/store/apps/details?id=cn.xuehuayu.player)
 
  ### KKPlayer赞助漏洞
-[点击查看](https://github.com/vfdeclnc/zy-player_kkplayer_18-resource/blob/main/bug-vip.md)
+[点击查看](https://github.com/vfdeclnc/KKPlayer-APP/blob/main/bug-vip.md)
