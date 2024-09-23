@@ -20,5 +20,5 @@
 
 ### KKPlayer [下载](https://github.com/npljy/KKPlayer-APP/releases)
 
-### KKPlayer最小额度赞助，随时可能被修复
+### KKPlayer最小额度赞助方法
 [点击查看](https://github.com/vfdeclnc/KKPlayer-APP/blob/main/bug-vip.md)
